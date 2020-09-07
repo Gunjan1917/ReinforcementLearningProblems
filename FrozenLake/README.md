@@ -25,13 +25,13 @@ Implement n-step Sarsa and evaluate it on the 8x8 Frozen Lake environment. Evalu
 # Results and Observations
 
 ![alt text](https://github.com/gunjan1917/ReinforcementLearningProblems/blob/Gunjan1917-patch-1/FrozenLake/sarsa.PNG)
-![alt text](https://github.com/gunjan1917/ReinforcementLearningProblems/blob/Gunjan1917-patch-1/FrozenLake/q_sarsa_learning.PNG)
+![alt text](https://github.com/gunjan1917/ReinforcementLearningProblems/blob/Gunjan1917-patch-1/FrozenLake/q_learning.PNG)
 
 The difference between these two algorithms is that SARSA chooses an action following the same current policy and updates its Q-values whereas Q-learning chooses the greedy action, that is, the action that gives the maximum Q-value for the state, that is, it follows an optimal policy. Under some common conditions, they both converge to the real value function, but at different rates. Q-Learning tends to converge a little slower, but has the capability to continue learning while changing policies. Also, Q-Learning is not guaranteed to converge when combined with linear approximation.
 If the goal is to train an optimal agent in simulation, or in a low-cost and fast-iterating environment, then Q-learning is a good choice, due to the first point (learning optimal policy directly). If the agent learns online, and you care about rewards gained while it is learning, then SARSA would a better choice.
 
 # Non-Slippery version (Deterministic Environment)
-![alt text](https://github.com/gunjan1917/ReinforcementLearningProblems/blob/Gunjan1917-patch-1/FrozenLake/q_learnong_nonslippery.PNG)
+![alt text](https://github.com/gunjan1917/ReinforcementLearningProblems/blob/Gunjan1917-patch-1/FrozenLake/q_learning_nonslippery.PNG)
 ![alt text](https://github.com/gunjan1917/ReinforcementLearningProblems/blob/Gunjan1917-patch-1/FrozenLake/sarsa_nonslippery.PNG)
 
 ![alt text](https://github.com/gunjan1917/ReinforcementLearningProblems/blob/Gunjan1917-patch-1/FrozenLake/nstep_sarsa_results.PNG)
