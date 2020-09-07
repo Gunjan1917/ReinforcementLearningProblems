@@ -34,4 +34,5 @@ If the goal is to train an optimal agent in simulation, or in a low-cost and fas
 ![alt text](https://github.com/gunjan1917/ReinforcementLearningProblems/blob/Gunjan1917-patch-1/FrozenLake/q_learning_nonslippery.PNG)
 ![alt text](https://github.com/gunjan1917/ReinforcementLearningProblems/blob/Gunjan1917-patch-1/FrozenLake/sarsa_nonslippery.PNG)
 
+# n-step SARSA on Frozen Lake
 ![alt text](https://github.com/gunjan1917/ReinforcementLearningProblems/blob/Gunjan1917-patch-1/FrozenLake/nstep_sarsa_results.PNG)
