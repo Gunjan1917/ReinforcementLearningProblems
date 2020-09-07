@@ -15,4 +15,4 @@ Implement Sarsa(lambda) with linear function approximation (e.g. tile-coding or 
 
 # Results and Observations
 
-![alt text](https://github.com/gunjan1917/ReinforcementLearningProblems/blob/MountainCar/mountaincar.py)
+![alt text](https://github.com/gunjan1917/ReinforcementLearningProblems/blob/Gunjan1917-patch-1/MountainCar/mountaincar.py)
