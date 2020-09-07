@@ -1,4 +1,4 @@
-
+# Background
 For this problem, we will use the Cart-Pole environment from gym: https://gym.openai.com/envs/CartPole-v1/ The task is to apply forces to a cart moving a long a track in order to keep the pole balanced. If the 
 pole falls apart a given angle or an episode length of 500 is reached, the episode terminates. The state consists of 4 continous variables (position and velocity of cart and pole). There are 2 actions corresponding to left and right.
 # Problem Statement
