@@ -31,8 +31,8 @@ The difference between these two algorithms is that SARSA chooses an action foll
 If the goal is to train an optimal agent in simulation, or in a low-cost and fast-iterating environment, then Q-learning is a good choice, due to the first point (learning optimal policy directly). If the agent learns online, and you care about rewards gained while it is learning, then SARSA would a better choice.
 
 # Non-Slippery version (Deterministic Environment)
-![alt text](https://github.com/gunjan1917/ReinforcementLearningProblems/blob/Gunjan1917-patch-1/FrozenLake/q_learning_nonslippery.PNG)
-![alt text](https://github.com/gunjan1917/ReinforcementLearningProblems/blob/Gunjan1917-patch-1/FrozenLake/sarsa_nonslippery.PNG)
+![alt text](https://github.com/gunjan1917/ReinforcementLearningProblems/blob/master/FrozenLake/q_learning_nonslippery.PNG)
+![alt text](https://github.com/gunjan1917/ReinforcementLearningProblems/blob/master/FrozenLake/sarsa_nonslippery.PNG)
 
 # n-step SARSA on Frozen Lake
 ![alt text](https://github.com/gunjan1917/ReinforcementLearningProblems/blob/Gunjan1917-patch-1/FrozenLake/nstep_sarsa_results.PNG)
