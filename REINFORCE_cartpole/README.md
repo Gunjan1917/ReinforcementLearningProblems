@@ -8,5 +8,5 @@ Tune the parameters and try to achieve a mean >= 495. How many episodes are need
 # Results and Observations
 To achieve the required mean, the number of episodes can vary. For this particular run, the number of episodes required to achieve a mean of 495 was 158.
 
-![alt text](https://github.com/gunjan1917/ReinforcementLearningProblems/blob/Gunjan1917-patch-1/REINFORCE_cartpole/mean.PNG)
-![alt text](https://github.com/gunjan1917/ReinforcementLearningProblems/blob/Gunjan1917-patch-1/REINFORCE_cartpole/ex8_output.PNG)
+![alt text](https://github.com/gunjan1917/ReinforcementLearningProblems/blob/master/REINFORCE_cartpole/mean.PNG)
+![alt text](https://github.com/gunjan1917/ReinforcementLearningProblems/blob/master/REINFORCE_cartpole/ex8_output.PNG)
